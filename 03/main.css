@@ -29,7 +29,7 @@ body {
 
 .main-header {
   width: 100%;
-  background: #2ddf2d;
+  background: #2ddf5c;
   padding: 8px 16px;
 }
 
@@ -40,7 +40,7 @@ body {
 .main-nav {
   display: inline-block;
   text-align: right;
-  width: calc(100%-49px);
+  width: calc(100% - 54px);
 }
 
 .main-nav__items {
