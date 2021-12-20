@@ -20,10 +20,10 @@ a.active {
 
 .main-section {
   height: 800px;
-  border: 1px solid #ccc;
+  border: 1px solid #ccc !important;
   padding: 16px;
 }
 
 .highlighted {
-  border: 2px solid orange;
+  border: 2px solid #fa923f;
 }
